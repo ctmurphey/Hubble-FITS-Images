@@ -6,8 +6,10 @@ IMPORTANT:
 While the Python codes are here, each one needs a corresponding FITS file. These files are too large to be stored here and instead all files are stored in a Google Drive folder here: https://drive.google.com/drive/folders/1PI9NQf2mq3rfbaNSu-WTjW8vMNJ9gbML?usp=sharing I highly recommend you download all files from there instead.
 
 
-All FITS files are courtesy of the Hubble Legacy Archive at https://hla.stsci.edu/hlaview.html while the Python files are completely written by me.
-
 
 Here is a sample output for M57, also known as the Ring Nebula:
 ![Here's a sample of the output](https://github.com/tanner-murphey/Hubble-FITS-Images/blob/master/M57_sample.png)
+
+
+All FITS files are courtesy of the Hubble Legacy Archive at https://hla.stsci.edu/hlaview.html while the Python files are completely written by me.
+
